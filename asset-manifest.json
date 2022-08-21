@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/SocialX-ReactApp/static/css/main.41c6a8d2.css",
+    "main.js": "/SocialX-ReactApp/static/js/main.b5b44511.js",
+    "static/media/background.png": "/SocialX-ReactApp/static/media/background.00c066dc0b70e75b96c2.png",
+    "static/media/Frame 19.png": "/SocialX-ReactApp/static/media/Frame 19.1ea98a56e3c14dcb1083.png",
+    "static/media/s1.png": "/SocialX-ReactApp/static/media/s1.0a22d0af2ac46f402f41.png",
+    "static/media/s2.png": "/SocialX-ReactApp/static/media/s2.2a9f596b9b34f01dbebb.png",
+    "index.html": "/SocialX-ReactApp/index.html",
+    "main.41c6a8d2.css.map": "/SocialX-ReactApp/static/css/main.41c6a8d2.css.map",
+    "main.b5b44511.js.map": "/SocialX-ReactApp/static/js/main.b5b44511.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41c6a8d2.css",
+    "static/js/main.b5b44511.js"
+  ]
+}
