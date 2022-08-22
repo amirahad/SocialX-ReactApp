@@ -5,7 +5,6 @@ import image2 from '../../images/s2.png'
 
 export default function Services() {
   return (
-    <div>
       <div id="services">
         <div className="s-heading">
             <h1>Services</h1>
@@ -17,6 +16,5 @@ export default function Services() {
             <SIngleService image={image1} alt={image1} button="Express Js"/>
         </div>
       </div>
-    </div>
   )
 }

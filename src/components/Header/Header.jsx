@@ -3,7 +3,9 @@ import Button from '../Button/Button'
 import Navbar from '../Navbar/Navbar'
 
 export default function Header() {
-    
+  const opengithub = () => {
+    window.open("https://github.com/amirahad", '_blank')
+}
   return (
     <div id='main'>
       <Navbar />
@@ -18,7 +20,7 @@ export default function Header() {
         <div className="header-btns">
           <Button text="Hire Me" />
 
-          <Button text='GitHub' />
+          <Button text='GitHub' github={opengithub}/>
         </div>
       </div>
       <div className="arrow"></div>

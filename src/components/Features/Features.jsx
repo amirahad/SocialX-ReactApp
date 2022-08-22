@@ -4,7 +4,7 @@ import Button from '../Button/Button'
 
 export default function Features() {
   return (
-    <>
+    <div id='features1'>
       <div className="f-heading">
         <h1>Features</h1>
         <p>Here are some features of softwere</p>
@@ -28,6 +28,6 @@ export default function Features() {
           <Button text= "View More"/>
         </div>
       </div>
-    </>
+    </div>
   )
 }
